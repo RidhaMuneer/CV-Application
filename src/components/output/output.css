@@ -1,0 +1,63 @@
+.output-box{
+    margin-top: 1%;
+    width: 50%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 1px solid rgba(132, 132, 132, 0.215) !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    padding-bottom:20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column !important;
+    align-items: flex-start;
+}
+
+.output{
+    width: 100%;
+}
+
+b{
+    margin-right: 10px;
+}
+
+hr{
+    border: 1px solid rgba(132, 132, 132, 0.215) !important;
+    width: 100%;
+}
+
+.contact{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 10%;
+}
+
+.name-center{
+    text-align: center !important;
+}
+
+.education-info{
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: baseline !important;
+    gap: 20px;
+}
+
+.start-end{
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.experience-info{
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: baseline !important;
+    gap: 20px;
+}
+
+.school-major{
+    width: 100%;
+}
